@@ -1,6 +1,6 @@
 # Texture-GS
 
-This is the repository that contains source code for the [Texture-GS website](https://texgs.github.io).
+This is the repository that contains source code for the [Texture-GS website](https://slothfulxtx.github.io/TexGS/).
 
 If you find Texture-GS useful for your work please cite:
 ```
